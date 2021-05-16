@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Documentation
-subtitle: Mathematical Model and Controller Components for Cubli System
-cover-img: /assets/img/Cubli-balancing-robot.jpg
+subtitle: Mathematical Model and Controll System for Reaction Hweel Pendulum
+cover-img: /assets/img/reactwheel.jpg
 thumbnail-img: /assets/img/Balance-block-unilateral-self-balancing-cubli-block.jpg
-share-img: /assets/img/Cubli-balancing-robot.jpg
+share-img: /assets/img/reactwheel.jpg
 ---
 
 ![Page 1 of the report](/assets/img/Meca482FinalProjOutlineVer2.docx-01.jpg)
