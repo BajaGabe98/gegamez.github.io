@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Documentation
-subtitle: Mathematical Model and Controll System for Reaction Hweel Pendulum
+subtitle: Mathematical Model and Controll System for Reaction Wheel Pendulum
 cover-img: /assets/img/reactwheel.jpg
 thumbnail-img: /assets/img/Balance-block-unilateral-self-balancing-cubli-block.jpg
 share-img: /assets/img/reactwheel.jpg
