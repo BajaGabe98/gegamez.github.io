@@ -2,8 +2,8 @@
 layout: post
 title: Documentation
 subtitle: Mathematical Model and Controll System for Reaction Wheel Pendulum
-cover-img: /assets/img/reactwheel.jpg
-thumbnail-img: /assets/img/wide.png
+cover-img: /assets/img/capture2.jpg
+thumbnail-img: /assets/img/wide2.png
 share-img: /assets/img/reactwheel.jpg
 ---
 
