@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/reactwheel.jpg
 share-img: /assets/img/reactwheel.jpg
 ---
 
-![Page 1 of the report](/assets/img/Meca482FinalProjOutlineVer2.docx-01.jpg)
+![Page 1 of the report](/assets/img/Report-01.jpg)
 ![Page 2 of the report](/assets/img/Meca482FinalProjOutlineVer2.docx-02.jpg)
 ![Page 3 of the report](/assets/img/Meca482FinalProjOutlineVer2.docx-03.jpg)
 ![Page 4 of the report](/assets/img/Meca482FinalProjOutlineVer2.docx-04.jpg)
