@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Documentation
+title: Report
 subtitle: Mathematical Model and Controll System for Reaction Wheel Pendulum
 cover-img: /assets/img/Wide2.PNG
 thumbnail-img: /assets/img/Capture2.PNG
 share-img: /assets/img/Capture2.PNG
 ---
-
 ![Page 1 of the report](/assets/img/Report01.jpg)
 ![Page 2 of the report](/assets/img/Report02.jpg)
 ![Page 3 of the report](/assets/img/Report03.jpg)
