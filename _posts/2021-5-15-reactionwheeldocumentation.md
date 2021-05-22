@@ -16,6 +16,6 @@ share-img: /assets/img/Capture2.PNG
 ![Page 7 of the report](/assets/img/Report07.jpg)
 ![Page 8 of the report](/assets/img/Report08.jpg)
 ![Page 9 of the report](/assets/img/Report09.jpg)
-![Page 10f the report](/assets/img/Report10.jpg)
-![Page 11of the report](/assets/img/Report11.jpg)
+![Page 10 of the report](/assets/img/Report10.jpg)
+![Page 11 of the report](/assets/img/Report11.jpg)
 
