@@ -4,7 +4,7 @@ title: Documentation
 subtitle: Mathematical Model and Controll System for Reaction Wheel Pendulum
 cover-img: /assets/img/Wide2.png
 thumbnail-img: /assets/img/Capture2.png
-share-img: /assets/img/reactwheel.jpg
+share-img: /assets/img/Capture2.png
 ---
 
 ![Page 1 of the report](/assets/img/Report-01.jpg)
