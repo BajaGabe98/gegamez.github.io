@@ -18,4 +18,4 @@ share-img: /assets/img/reactwheel.jpg
 ![Page 9 of the report](/assets/img/Report-09.jpg)
 ![Page 10f the report](/assets/img/Report-10.jpg)
 ![Page 11of the report](/assets/img/Report-11.jpg)
-![Page 12of the report](/assets/img/Report-12.jpg)
+
